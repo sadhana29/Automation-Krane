@@ -50,7 +50,7 @@ class login
     }
 
     projectList(){
-        return cy.get(':nth-child(2) > .card')
+        return cy.get(':nth-child(2) > .card') //added Project
     }
 }
 export default login;
