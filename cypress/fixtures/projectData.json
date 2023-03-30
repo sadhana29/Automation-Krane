@@ -1,0 +1,12 @@
+{
+  "createProject": {
+    "name":"Stadium Construction",
+    "budget": "13000",
+    "currency": "United States Dollar",
+    "country": "United States",
+    "stateProvince": "Florida", 
+    "city": "Miami",
+    "postZipcode": "120098",
+    "address": "701-M, North lake village"
+  }
+}
